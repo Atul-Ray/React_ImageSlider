@@ -3,7 +3,7 @@ import react from '@vitejs/plugin-react'
 
 // https://vite.dev/config/
 export default defineConfig({
-  base:'/star-Rating/',
+  base:'/React_ImageSlider/',
   mode: 'jit',
   plugins: [react()],
 })
