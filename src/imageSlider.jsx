@@ -51,4 +51,3 @@ const [currentIndex , setCurrentIndex]=useState(0)
 export default ImageSlider
 
 
-// https://picsum.photos/v2/list
